@@ -1,0 +1,64 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "A persistência é o caminho do êxito.",
+      "autoria": "Napoleon Hill",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 2,
+      "conteudo": "O sucesso nasce do querer, da determinação e da persistência.",
+      "autoria": "Napoleon Hill",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 3,
+      "conteudo": "A vida é 10% o que acontece comigo e 90% como eu reajo a isso.",
+      "autoria": "Charles Swindoll",
+      "modelo": "modelo3"
+    },
+    {
+      "id": 4,
+      "conteudo": "A mudança é a lei da vida.",
+      "autoria": "John F. Kennedy",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 5,
+      "conteudo": "Você deve ser a mudança que deseja ver no mundo.",
+      "autoria": "Mahatma Gandhi",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 6,
+      "conteudo": "A vida é sobre criar impacto, não uma renda.",
+      "autoria": "Kevin Kruse",
+      "modelo": "modelo3"
+    },
+    {
+      "id": 7,
+      "conteudo": "Sonhe grande e ousado.",
+      "autoria": "Steve Jobs",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 8,
+      "conteudo": "A disciplina é a ponte entre metas e realizações.",
+      "autoria": "Jim Rohn",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 9,
+      "conteudo": "As oportunidades não acontecem. Você as cria.",
+      "autoria": "Chris Grosser",
+      "modelo": "modelo3"
+    },
+    {
+      "id": 10,
+      "conteudo": "Sucesso é a soma de pequenos esforços repetidos dia após dia.",
+      "autoria": "Robert Collier",
+      "modelo": "modelo1"
+    }
+  ]
+}
