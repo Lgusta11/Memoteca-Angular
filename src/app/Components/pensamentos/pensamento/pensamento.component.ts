@@ -1,11 +1,13 @@
+import { HttpClientModule } from '@angular/common/http';
 import { CommonModule } from '@angular/common';
 import { Component, Input } from '@angular/core';
 import { Pensamento } from '../pensamento';
+import { RouterModule } from '@angular/router';
 
 @Component({
   selector: 'app-pensamento',
   standalone: true,
-  imports: [CommonModule],
+  imports: [CommonModule, HttpClientModule, RouterModule],
   templateUrl: './pensamento.component.html',
   styleUrl: './pensamento.component.css'
 })

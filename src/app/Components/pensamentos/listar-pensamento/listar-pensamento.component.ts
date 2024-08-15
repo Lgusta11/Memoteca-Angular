@@ -1,3 +1,4 @@
+import { HttpClientModule } from '@angular/common/http';
 import { Component } from '@angular/core';
 import { RouterModule } from '@angular/router';
 import { PensamentoComponent } from "../pensamento/pensamento.component";
@@ -8,7 +9,7 @@ import { PensamentoService } from '../pensamento.service';
 @Component({
   selector: 'app-listar-pensamento',
   standalone: true,
-  imports: [RouterModule, PensamentoComponent, CommonModule],
+  imports: [RouterModule, PensamentoComponent, CommonModule, HttpClientModule],
   templateUrl: './listar-pensamento.component.html',
   styleUrl: './listar-pensamento.component.css'
 })
